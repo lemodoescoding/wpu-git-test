@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	width: 100%;
+	min-height: 100vh;
+	background-color: linear-gradient(45deg, red, blue);
+}
+
+h1 {
+	text-align: center;
+	color: #000;
+	font-size: 70px;
+	letter-spacing: 3px;
+	font-weight: 700;
+}
+
+p.dummy-text {
+	font-size: 20px;
+	color: #333;
+	letter-spacing: 1px;
+	font-weight: light;
+	font-style: italic;
+}
